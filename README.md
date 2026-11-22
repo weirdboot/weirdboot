@@ -19,7 +19,7 @@ I'm into physics, math, and algorithms — the kind of problems that make you th
 **[fm_tools](https://github.com/weirdboot/fm_tools)** — a command-line file manager written in Go. Supports `cp`, `cd`, `rm`, `ls`, `grep`, `mv`, and more. Built with an eye for clean CLI UX and cross-platform releases.
 
 ## What I'm working on
-- Building CLI tools in Go (like `fm_tools`)
+- Building CLI tools (like `fm_tools`)
 - Learning Rust through small systems projects
 
 ## Tech I use
