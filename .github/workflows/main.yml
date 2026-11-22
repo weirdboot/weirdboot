@@ -1,0 +1,29 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Stats Card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          options: 'username=weirdboot&show_icons=true&theme=github_dark&hide_border=true'
+          path: 'stats.svg'
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update stats card"
+          file_pattern: "stats.svg"
