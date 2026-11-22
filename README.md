@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Kirill (weirdboot)
 
-<!--
-**weirdboot/weirdboot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and systems programming learner. I write Go for practical tools and APIs, and I'm currently going deeper into Rust for performance-critical work.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Building CLI tools in Go
+- Learning Rust through small systems projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+- **Go** — CRUD APIs, CLI tools
+- **Rust** — currently learning, small exercises
+- **Linux** — daily environment
+
+## GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=weirdboot&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" height="170" />
+      <img src="https://github-readme-stats.vercel.app/api?username=weirdboot&show_icons=true&theme=github_light&hide_border=true#gh-light-mode-only" height="170" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weirdboot&layout=compact&langs_count=6&card_width=350&theme=github_dark&hide_border=true#gh-dark-mode-only" height="170" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weirdboot&layout=compact&langs_count=6&card_width=350&theme=github_light&hide_border=true#gh-light-mode-only" height="170" />
+    </td>
+  </tr>
+</table>
+
+## Get in touch
