@@ -25,7 +25,7 @@ I'm into physics, math, and algorithms — the kind of problems that make you th
 ## Tech I use
 - **Go** — CRUD APIs, CLI tools
 - **Rust** — currently learning, small exercises
-- **C** - computer understanding
+- **C** — computer understanding
 - **Linux** — daily environment
 
 ## GitHub Stats
